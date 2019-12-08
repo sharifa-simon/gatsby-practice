@@ -620,3 +620,7 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+.veggies {
+  background-image: url(../images/outsideveg.jpg);
+}
