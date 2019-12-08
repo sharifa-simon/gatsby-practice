@@ -11,7 +11,9 @@ import TwitterIcon from '@material-ui/icons/Twitter';
 
 const useStyles = makeStyles({
     root: {
-      width: 450,
+      width: 400,
+      background: 'transparent',
+    
     },
   });
   
